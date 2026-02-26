@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/keeper',
+  base: '/Keeper/',
 })
