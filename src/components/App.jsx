@@ -5,7 +5,9 @@ import CreateArea from "./CreateArea";
 import React from "react";
 
 import axios from 'axios';
-const APIUrl = 'http://localhost:1500'; 
+// const APIUrl = 'http://localhost:1500'; 
+const APIUrl = 'https://keeper-backend-fmo1.onrender.com'; 
+
 
 
 function App() {
