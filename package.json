@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ap3315.github.io/AP3315/Keeper/",
+  "homepage": "https://ap3315.github.io/Keeper",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
